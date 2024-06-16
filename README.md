@@ -12,7 +12,7 @@ Vous pouvez télécharger le fichier RMD et le modifier. Chaque bloc de code est
 
 ### Utilisation
 
-La logique est simple. Munissez-vous du code UID du député dont vous voulez analyser l'activité. Par exemple, dans cette URL : `www.assemblee-nationale.fr/dyn/deputes/PA695100`, vous devez récupérer `PA721024` qui est l'UID de Anne Genetet, députée de la 11e circonscription des Français de l'étranger. Vous lancerez ensuite dans RStudio une recherche pour `PA721024` et vous remplacerez les occurrences appropriées.
+La logique est simple. Munissez-vous du code UID du député dont vous voulez analyser l'activité. Par exemple, dans cette URL : `www.assemblee-nationale.fr/dyn/deputes/PA695100`, vous devez récupérer `721024` qui est l'UID de Anne Genetet, députée de la 11e circonscription des Français de l'étranger. Vous lancerez ensuite dans RStudio une recherche pour `721024` et vous remplacerez les occurrences appropriées.
 
 ### Travail en cours
 
